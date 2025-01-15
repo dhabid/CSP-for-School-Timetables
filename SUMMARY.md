@@ -7,7 +7,9 @@
 * [RCCAR](projects/quickstart.md)
 * [Garage Door Opener](projects/publish-your-docs.md)
 * [CSP for School Timetables](projects/csp-for-school-timetables/README.md)
-  * [Code](projects/csp-for-school-timetables/code.md)
+  * [Code/Explanation](projects/csp-for-school-timetables/code-explanation.md)
+* [Implementation of Machine Learning algorithms](projects/implementation-of-machine-learning-algorithms/README.md)
+  * [Code/Explanation](projects/implementation-of-machine-learning-algorithms/code-explanation.md)
 
 ## Other stuff
 
